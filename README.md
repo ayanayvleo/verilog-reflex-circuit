@@ -1,5 +1,5 @@
 ✨ Reflex LED — FPGA Hardware Project (Cyclone 10 LP)
-<p align="center"> <img src="LED-demo.jpeg" width="420"> </p> <p align="center"> <b>A real FPGA hardware reflex system using pure Verilog and the Intel Cyclone 10 LP.</b> </p>
+<p align="center"> <img src="Untitled design (51).png" width="420"> </p> <p align="center"> <b>A real FPGA hardware reflex system using pure Verilog and the Intel Cyclone 10 LP.</b> </p>
 🚀 Project Badges
 <p align="center">
 
@@ -13,11 +13,9 @@
 
 
 </p>
-🎬 Demo (GIF Placeholder)
+🎬 Demo 
 
-Upload your LED-blinking GIF here once recorded:
-
-![Demo GIF](./images/reflex_led_demo.gif)
+<p align="center"> <img src="Untitled design (1).gif" width="420"> </p> <p align="center"> </p>
 
 🔥 Overview
 
@@ -128,7 +126,7 @@ Press Start
 Your LED now responds instantly.
 
 📸 Hardware Demo
-<p align="center"> <img src="LED-demo.jpeg" width="420"> </p>
+<p align="center"> <img src="intro-LED.jpeg" width="420"> </p>
 🖥️ Quartus Synthesis
 <p align="center"> <img src="quartus-compile.png" width="650"> </p>
 
