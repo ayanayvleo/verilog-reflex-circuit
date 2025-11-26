@@ -1,6 +1,5 @@
 ✨ Reflex LED — FPGA Hardware Project (Cyclone 10 LP)
-<p align="center"> <img src="![B8A14126-5D3F-4DD6-9238-41D47B28321F](https://github.com/user-attachments/assets/ac8a58c3-497e-4d74-90b9-35515712f741)
-" width="420"> </p> <p align="center"> <b>A real FPGA hardware reflex system using pure Verilog and the Intel Cyclone 10 LP.</b> </p>
+<p align="center"> <img src="B8A14126-5D3F-4DD6-9238-41D47B28321F" width="420"> </p> <p align="center"> <b>A real FPGA hardware reflex system using pure Verilog and the Intel Cyclone 10 LP.</b> </p>
 🚀 Project Badges
 <p align="center">
 
