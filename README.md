@@ -1,19 +1,4 @@
 ✨ Reflex LED — FPGA Hardware Project (Cyclone 10 LP)
-<p align="center"> <img src="Untitled design (51).png" width="420"> </p> <p align="center"> <b>A real FPGA hardware reflex system using pure Verilog and the Intel Cyclone 10 LP.</b> </p>
-🚀 Project Badges
-<p align="center">
-
-
-
-
-
-
-
-
-
-
-</p>
-🎬 Demo 
 
 <p align="center"> <img src="Untitled design (1).gif" width="420"> </p> <p align="center"> </p>
 
@@ -213,10 +198,7 @@ Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction...
 
-
-(Full MIT license included in your LICENSE file)
-
-👩🏽‍💻 Author
+Author
 
 Ayana Leonard
 Tech Founder • U.S. Army Veteran • Embedded Systems & FPGA Engineer in Progress
