@@ -1,0 +1,8 @@
+module reflex(
+    input wire sensor,
+	 output wire led_out
+);
+
+assign led_out = sensor;
+
+end module
