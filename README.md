@@ -128,7 +128,7 @@ Press Start
 Your LED now responds instantly.
 
 📸 Hardware Demo
-<p align="center"> <img src="./images/B8A14126.jpeg" width="420"> </p>
+<p align="center"> <img src="LED-demo.jpeg" width="420"> </p>
 🖥️ Quartus Synthesis
 <p align="center"> <img src="quartus-compile.png" width="650"> </p>
 
